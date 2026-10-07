@@ -1,0 +1,18 @@
+{
+  "name": "mastering-typescript",
+  "version": "1.0.0",
+  "description": "A structured TypeScript learning repository focused on developing a deep understanding of TypeScript and becoming comfortable building full-stack applications with React and Next.js.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "check": "tsc --noEmit",
+    "watch": "tsc --watch",
+    "clean": "rm -rf dist"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "typescript": "^7.0.2"
+  }
+}
